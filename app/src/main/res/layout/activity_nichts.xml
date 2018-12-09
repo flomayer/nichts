@@ -107,6 +107,7 @@
                 android:layout_height="wrap_content"
                 android:text="Dein Florian"
                 android:textSize="24sp" />
+
         </LinearLayout>
     </ScrollView>
 
